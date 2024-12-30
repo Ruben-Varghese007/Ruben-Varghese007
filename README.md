@@ -1,4 +1,5 @@
 <h2 align="center">Ruben George Varghese</h2>
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 ###
 
