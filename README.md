@@ -17,7 +17,7 @@
 ###
 ## 🌐 Socials
 <div align="left">
-  <a href="https://www.behance.net/rubenvarghese" target="_blank">
+  <a href="https://www.behance.net/rubenvarghese" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="47" height="35" alt="behance logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
