@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruben-Varghese007&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" height="150" alt="Ruben-Varghese007 stats graph" style="margin: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruben-Varghese007&show_icons=true&hide_rank=false&locale=en&theme=dark&hide_border=false&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" height="150" alt="Ruben-Varghese007 stats graph" style="margin: 5px;" />
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=Ruben-Varghese007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph" style="margin: 5px;" />
   -->
